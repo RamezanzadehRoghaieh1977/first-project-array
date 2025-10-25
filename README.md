@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Data Science & AI Learning Repository
 
 Welcome! 👋  
@@ -24,3 +25,7 @@ My Goals
 - Apply for Data Science internships in Switzerland 🇨🇭
 Data-Science-Project
 Learning and practice repository for Data Science, Machine Learning, and AI projects.
+=======
+# My-first-project
+Learning and practice repository 
+>>>>>>> df7334305972abfeb9b696d95700485410967dca
